@@ -1,0 +1,42 @@
+.navbar{
+    background-color: cadetblue;
+}
+
+.top{
+    background-color: salmon;
+    height: 400;
+}
+
+.btnbt{
+    font-size: 10px;
+}
+
+.col-lg-4 img{
+    opacity: 0.8;
+  cursor: pointer;
+}
+.col-lg-4 img:hover {
+    opacity: 1;
+  }
+
+  .imgcontainer {
+    position: relative;
+    display: none;
+  }
+
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
+  
+  .bottom{
+      background-color: khaki;
+      height: 300px;
+      padding: 70px 0;
+  }
+
+  

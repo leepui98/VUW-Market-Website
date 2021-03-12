@@ -1,0 +1,87 @@
+
+.navbar-brand{
+    max-width: 20%;
+}
+
+.nav-link{
+    color:yellow
+   
+}
+
+.nav-link {
+    margin-right: 1em !important;
+  }
+
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+
+  .top {
+    background-image:url('pexels-photo-3873912.jpeg');
+   height: 100vh;
+  }
+
+  .bottom{
+      background-image:url('anna-pelzer-IGfIGP5ONV0-unsplash.jpg');
+    height:100vh;
+    
+  }
+
+  .titleT{
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+      text-align: center;
+  }
+
+  .titleT h1{
+      
+      color: rgb(171, 123, 216);
+  }
+  
+  .titleT h1:hover{
+    background-color: plum;
+  }
+
+  .titleT p{
+      color:yellow;
+  }
+
+  .bottom p{
+      color:rgb(204, 245, 110);
+  }
+  .features .form-control,
+  .features input {
+      border-radius: 0;
+  }
+  .features .btn {
+    background-color:#589b37;
+    border: 1px solid #589b37;
+    color: #fff;
+    margin-top: 20px;
+  }
+  .features .btn:hover {
+    background-color: #333;
+    border: 1px solid #333;
+  }
+
+  .feature-title{
+      color:aquamarine;
+  }
+  
+  .bottom2{
+      background-color: honeydew;
+  }
+
+  .bottom3{
+      background-color: plum;
+  }
+
+  .page-footer {
+    background-color:rgb(0, 0, 0);
+    color: #ccc;
+    padding: 60px 0 30px;
+  }
+  
